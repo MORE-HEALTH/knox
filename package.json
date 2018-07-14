@@ -1,5 +1,5 @@
 {
-  "name": "knox",
+  "name": "mh-knox",
   "description": "Amazon S3 client",
   "keywords": [
     "aws",
